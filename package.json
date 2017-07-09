@@ -1,0 +1,31 @@
+{
+  "name": "qneeb-template",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qualixity",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qvlxty/QNEEB-Template.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "node",
+    "js",
+    "express",
+    "template"
+  ],
+  "bugs": {
+    "url": "https://github.com/qvlxty/QNEEB-Template/issues"
+  },
+  "homepage": "https://github.com/qvlxty/QNEEB-Template#readme",
+  "description": "Template for developing your responsive web-app with NodeJS,Express <h2>Q Nodejs Express Ejs Bootstrap Template</h2> <p>Данный репозиторий - стартовый шаблон для разработки адаптивных веб-приложений с настроенным сервером на NodeJS. </p> <p>Он включает в себя обычный шаблон bootstrap v3 и подключенной шапкой в blocks/header.ejs</p> <hr><p>Шаблон позволяет облегчить старт разработки на стеке Njs+Express+Bootstrap</p>"
+}
