@@ -17,6 +17,8 @@
 
 - express
 - ejs
+- bootstrap v4
+- jquery for bootstrap
 
 ## Doc.
 
